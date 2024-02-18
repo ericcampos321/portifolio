@@ -1,0 +1,82 @@
+
+@media(max-width: 1024px){
+
+
+    .lateral{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        margin: auto;
+   
+    }
+
+    .menu-lateral{
+        width: 100%;
+        position: relative; 
+        top:100px;
+        left: 0px;
+        margin: 10px;
+    }
+
+    .hi-there{
+        position: relative; 
+        top:100px;
+        left: 0px;
+        
+    }
+
+    .div-hi{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .div-stack{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .foto-link > img{
+        width: 120px;
+        height: 120px;
+    }
+
+    .modal-body > img{
+        width: 100%;
+    }
+
+    .certificados{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    .car{
+        width: 100%;
+        position: relative; 
+        top:120px;
+        left: 0px;
+    }
+
+    .pinned-f{
+        position: relative;
+        top: 123px;
+        left: -150px;
+    }
+
+    .sociais{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .projetos{
+        height: 400px;
+    }
+
+ 
+
+}

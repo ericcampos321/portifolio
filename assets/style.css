@@ -1,0 +1,190 @@
+
+.lateral{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+ 
+}
+
+.menu-lateral{
+    display: block;
+    position: relative;
+    right: 30px;
+    width: 300px;
+
+}
+
+input[type=checkbox]:checked,
+input[type="checkbox"]:focus {
+  border-color: rgb(0, 0, 0);
+  box-shadow: none;
+  outline: none;
+  background-color: #252a43;
+  
+}
+
+.atri-button > h2{
+    margin-top: 15px;
+    font-size: 24px;
+}
+
+.atri-button{
+    margin-bottom: 30px;
+}
+
+.sub-p{
+    color:rgba(240, 248, 255, 0.753);
+}
+
+
+
+.btn-fallow{
+    background-color: #212529;
+    color: white;
+    width: 100%;
+    border-radius: 10px;
+    padding: 4px;
+    margin: 0px 10px 20px 0px;
+}
+
+
+.foto-link > img{
+    background-image: url(../img/reuniao.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.info > ul > li{
+    margin-bottom: 5px;
+
+}
+
+.info > ul{
+    margin-bottom: 20px;
+}
+
+.certificados{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+
+.certificados > img{
+    width: 100px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.hi-there{
+    display: flex;
+    position: relative;
+    top:100px;
+    right: 10px;
+    width: 100%;
+    border: 1px solid rgba(255, 255, 255, 0.308);
+    padding: 0px  20px  20px  20px;
+    border-radius: 10px;
+
+}
+
+.div-hi{
+    width: 100%;
+}
+
+.div-hi > h4{
+    margin-top: 40px;
+}
+
+
+
+.div-stack{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.div-stack > p > i{
+    padding-right: 5px;
+}
+
+.div-stack > p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    padding-right: 20px;
+    padding-left: 4px;
+    font-size: 18px;
+    border-radius: 2px;
+
+}
+
+
+.car{
+    display: flex;
+    max-width: 1020px;
+    position: relative;
+    top:150px;
+    left: 175px;
+   
+}
+
+
+.card-t{
+    font-size: 14px;
+    color: gray;
+}
+
+.public{
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 0px 10px 0px 10px;
+    font-size: 14px;
+    color: gray;
+}
+
+.projetos{
+    display: flex;
+    position: relative;
+    top: 150px;
+    height: 300px;
+}
+
+.form-check{
+    display: flex;
+    position: relative;
+    right: 10px;
+}
+
+.form-check-input{
+    cursor: pointer;
+    margin-right: 5px;
+} 
+
+
+/*estilização para modo noturno*/
+[data-bs-theme="dark"] {
+    color: white;
+    .nav-link, .card-body .offcanvas, .accordion, .btn, .btn:hover, text-black, card-body{
+      --bs-nav-link-color: white;
+      --bs-card-color: white;
+      --bs-body-color: white;
+      --bs-btn-hover-border-color:#252a43;
+      
+
+
+      
+    }
+    
+  }
+
+

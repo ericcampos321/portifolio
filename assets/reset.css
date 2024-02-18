@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+
+
+}
+
+ul, li, a {
+    text-decoration: none;
+    list-style-type: none;
+    padding: 0px;
+
+}

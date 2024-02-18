@@ -1,0 +1,12 @@
+.pinned-f{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    max-width: 1200px;
+    margin: auto;
+    width: 100%;
+    position: relative;
+    top: 123px;
+    right: 250px;
+}
