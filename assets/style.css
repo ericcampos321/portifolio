@@ -73,8 +73,7 @@ input[type="checkbox"]:focus {
 
 .certificados{
     display: flex;
-    flex-wrap: wrap;
-   
+    flex-wrap: wrap; 
 }
 
 
@@ -93,7 +92,6 @@ input[type="checkbox"]:focus {
     border: 1px solid rgba(255, 255, 255, 0.308);
     padding: 0px  20px  20px  20px;
     border-radius: 10px;
-
 }
 
 .div-hi{
@@ -125,7 +123,6 @@ input[type="checkbox"]:focus {
     padding-left: 4px;
     font-size: 18px;
     border-radius: 2px;
-
 }
 
 
@@ -135,7 +132,6 @@ input[type="checkbox"]:focus {
     position: relative;
     top:150px;
     left: 175px;
-   
 }
 
 

@@ -7,7 +7,6 @@
         display: flex;
         flex-wrap: wrap;
         margin: auto;
-   
     }
 
     .menu-lateral{
@@ -22,7 +21,6 @@
         position: relative; 
         top:100px;
         left: 0px;
-        
     }
 
     .div-hi{
@@ -52,7 +50,6 @@
         justify-content: center;
         align-items: center;
     }
-
 
     .car{
         width: 100%;
