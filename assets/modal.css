@@ -45,12 +45,3 @@
     color: rgb(0, 0, 0);
 }
 
-.botao-saida{
-    background-color: red;
-    color:aliceblue;
-}
-
-.botao-saida:hover{
-    color: white;
-    background-color: green;
-}
