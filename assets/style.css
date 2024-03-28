@@ -169,12 +169,7 @@ input[type="checkbox"]:focus {
 
 /*estilização para modo noturno*/
 [data-bs-theme="dark"] {
-    background:
-    linear-gradient(
-        140deg,
-        rgb(0, 0, 0) 12%,
-        rgba(0, 0, 0, 0.658) 77%
-      );
+    background:black;
 
     color: white;
     .nav-link, .card-body .offcanvas, .accordion, .btn, .btn:hover, text-black, card-body{
